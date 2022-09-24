@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "tslib": "^2.4.0"
+  },
+  "dependencies": {
+    "@angular/platform-browser": "^14.2.3",
+    "nodemon": "^2.0.20",
+    "params": "^0.1.1"
+  }
+}
